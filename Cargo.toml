@@ -31,3 +31,4 @@ helium-entity-manager = { path = "./programs/helium-entity-manager", features = 
 mobile-entity-manager = { path = "./programs/mobile-entity-manager", features = ["cpi"] }
 price-oracle = { path = "./programs/price-oracle", features = ["cpi"] }
 no-emit = { path = "./programs/no-emit", features = ["cpi"] }
+
